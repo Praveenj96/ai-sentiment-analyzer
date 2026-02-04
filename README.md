@@ -41,3 +41,7 @@ python -m textblob.download_corpora
 - Support for multiple sentences
 - Emotion-based sentiment detection
 - Model upgrade using machine learning
+
+App link
+🌐 Live App: https://<your-streamlit-url>
+
