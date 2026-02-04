@@ -36,3 +36,8 @@ This project is beginner-friendly and demonstrates real-world usage of AI for cu
 ```bash
 pip install -r requirements.txt
 python -m textblob.download_corpora
+
+## 🚀 Future Improvements
+- Support for multiple sentences
+- Emotion-based sentiment detection
+- Model upgrade using machine learning
