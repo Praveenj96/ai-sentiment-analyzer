@@ -1,3 +1,6 @@
+🚀 Live Demo:  
+[Click here to open the app](https://ai-sentiment-analyzer-praveen.streamlit.app)
+
 # AI Sentiment Analyzer 🚀
 
 An AI-based sentiment analysis application that analyzes user text and classifies it as **Positive**, **Negative**, or **Neutral** using Natural Language Processing (NLP).
@@ -33,7 +36,7 @@ This project is beginner-friendly and demonstrates real-world usage of AI for cu
 
 ## 📦 Installation
 
-```bash
+``bash
 pip install -r requirements.txt
 python -m textblob.download_corpora
 
