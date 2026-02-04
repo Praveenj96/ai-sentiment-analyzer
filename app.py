@@ -1,5 +1,7 @@
 import streamlit as st
 from textblob import TextBlob
+import nltk
+nltk.download('punkt')
 
 st.title("AI Sentiment Analyzer")
 
@@ -19,3 +21,4 @@ if st.button("Analyze"):
             st.info("Neutral 😐")
             
         st.write("Score:", polarity)
+
