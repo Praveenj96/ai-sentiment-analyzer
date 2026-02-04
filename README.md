@@ -43,5 +43,6 @@ python -m textblob.download_corpora
 - Model upgrade using machine learning
 
 App link
-🌐 Live App: https://<your-streamlit-url>
+🌐 Live App: [Click here to open the app](https://your-app-name.streamlit.app)
+
 
